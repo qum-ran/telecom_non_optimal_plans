@@ -1,6 +1,6 @@
 # telecom_non_optimal_plans
 Telecom: Finding Clients with Non-Optimal Plans
-<a href = 'https://nbviewer.jupyter.org/github/qum-ran/yandex100_final_project/blob/main/Telecom_overpaying_clients.ipynb'>Telecom Project</a>
+<a href = 'https://nbviewer.jupyter.org/github/qum-ran/telecom_non_optimal_plans/blob/main/Telecom_overpaying_clients.ipynb'>Telecom Project</a>
 
 Our team's Client is CallMeMaybe:
 The virtual telephony service CallMeMaybe is developing some new functions that will give supervisors information on the clients with non-optimal plans.
